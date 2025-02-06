@@ -1,6 +1,6 @@
 ## Hi there! 👋 Welcome to my GitHub Profile
 
-I'm **[Andriyan Atanasov]**, an IBM BPM Developer with 3 years of experience in building efficient business process management solutions.
+I'm **Andriyan Atanasov**, an IBM BPM Developer with 3 years of experience in building efficient business process management solutions.
 
 ### 🚀 About Me
 - 🤖 Aspiring AI Enthusiast | Exploring AI & Machine Learning
@@ -16,13 +16,14 @@ I'm **[Andriyan Atanasov]**, an IBM BPM Developer with 3 years of experience in 
 - **Tools & Platforms:** IBM WebSphere, Docker, Git, AWS
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
+-->
 ### 🏆 Achievements
 - 🏅 Successfully deployed multiple BPM solutions for enterprises
-- 🌟 Maintainer of **[Your Project]**
+<!-- - 🌟 Maintainer of **[Your Project]**
 - 🎤 Speaker at **[Tech Event]**
+-->
 
 ### 📌 Featured Projects
 - 🚀 [Project 1](https://github.com/yourusername/project1) - Streamlined workflow automation
