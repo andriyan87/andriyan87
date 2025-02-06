@@ -7,7 +7,7 @@ I'm **[Andriyan Atanasov]**, an IBM BPM Developer with 3 years of experience in 
 - 💻 IBM BPM Developer | Business Process Automation Enthusiast
 - 🎨 UI/UX tinkerer | Love optimizing user interactions
 - 🌱 Currently exploring **IBM Cloud Pak for Business Automation & AI/ML**
-- 📫 Reach me at: **[https://www.linkedin.com/in/andriyan-atanasov/]**
+- 📫 Reach me at: **https://www.linkedin.com/in/andriyan-atanasov/**
 - ⚡ Fun fact: I automate workflows even in my daily life 🤖
 
 ### 🔧 Tech Stack
