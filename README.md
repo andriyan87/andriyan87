@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi there! 👋 Welcome to my GitHub Profile
 
-<!--
-**andriyan87/andriyan87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **[Andriyan Atanasov]**, an IBM BPM Developer with 3 years of experience in building efficient business process management solutions.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🤖 Aspiring AI Enthusiast | Exploring AI & Machine Learning
+- 💻 IBM BPM Developer | Business Process Automation Enthusiast
+- 🎨 UI/UX tinkerer | Love optimizing user interactions
+- 🌱 Currently exploring **IBM Cloud Pak for Business Automation & AI/ML**
+- 📫 Reach me at: **[https://www.linkedin.com/in/andriyan-atanasov/]**
+- ⚡ Fun fact: I automate workflows even in my daily life 🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- **Languages:** JavaScript, Java, SQL, Python
+- **Frameworks/Libraries:** IBM BPM, IBM BAW
+- **Tools & Platforms:** IBM WebSphere, Docker, Git, AWS
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+### 🏆 Achievements
+- 🏅 Successfully deployed multiple BPM solutions for enterprises
+- 🌟 Maintainer of **[Your Project]**
+- 🎤 Speaker at **[Tech Event]**
+
+### 📌 Featured Projects
+- 🚀 [Project 1](https://github.com/yourusername/project1) - Streamlined workflow automation
+- 🎨 [Project 2](https://github.com/yourusername/project2) - Optimized UI for BPM applications
+- 🤖 [Project 3](https://github.com/yourusername/project3) - AI-driven BPM enhancements
+
+### 💬 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=flat&logo=twitter)](https://twitter.com/yourusername)
+
+---
+_⭐️ Don't forget to star my repositories if you find them helpful!_ 😃
