@@ -14,9 +14,9 @@ I'm **Andriyan Atanasov**, an IBM BPM Developer with 3 years of experience in bu
 - **Languages:** JavaScript, Java, SQL, Python
 - **Frameworks/Libraries:** IBM BPM, IBM BAW
 - **Tools & Platforms:** IBM WebSphere, Docker, Git, AWS
-
+<!--!
 ### 📊 GitHub Stats
-<!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+[Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 -->
 ### 🏆 Achievements
@@ -31,8 +31,8 @@ I'm **Andriyan Atanasov**, an IBM BPM Developer with 3 years of experience in bu
 - 🤖 [Project 3](https://github.com/yourusername/project3) - AI-driven BPM enhancements
 
 ### 💬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=flat&logo=twitter)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/andriyan-atanasov/)
+<!--[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=flat&logo=twitter)](https://twitter.com/yourusername) -->
 
 ---
 _⭐️ Don't forget to star my repositories if you find them helpful!_ 😃
